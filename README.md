@@ -1,1 +1,1 @@
-## The easy way to spin up Kuberntes cluster on AWS
+## The easy way to spin up Kubernetes cluster on AWS
